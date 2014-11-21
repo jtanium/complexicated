@@ -1,5 +1,8 @@
 # Complexicated
 
+Try this instead:
+https://github.com/jtanium/subsume
+
 ## Installation
 
 Add this line to your application's Gemfile:
